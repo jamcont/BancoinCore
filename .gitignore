@@ -1,0 +1,5 @@
+.DS_Store
+bancoin-Qt.*
+Makefile
+.qmake.stash
+build/*

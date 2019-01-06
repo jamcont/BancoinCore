@@ -3,3 +3,5 @@ bancoin-Qt.*
 Makefile
 .qmake.stash
 build/*
+*.qm
+qrc_bitcoin.cpp

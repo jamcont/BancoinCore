@@ -48,8 +48,10 @@
   <qresource prefix="/images">
     <file alias="about">res/images/about.png</file>
     <file alias="splash">res/images/splash.png</file>
-  	<file alias="bkg">res/images/bkg.png</file>
-  	<file alias="bkg2">res/images/bkg2.png</file>
+    <file alias="bkgwindows">res/images/bkgwindows.png</file>
+    <file alias="bkglinux">res/images/bkglinux.png</file>
+    <file alias="bkgmac">res/images/bkgmac.png</file>
+    <file alias="bkg2">res/images/bkg2.png</file>
   </qresource>
   <qresource prefix="/movies">
     <file alias="update_spinner">res/movies/update_spinner.mng</file>
